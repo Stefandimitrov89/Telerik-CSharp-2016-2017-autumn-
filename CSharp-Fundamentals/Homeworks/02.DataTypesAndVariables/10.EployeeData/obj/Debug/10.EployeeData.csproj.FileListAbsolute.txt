@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\10.EployeeData\bin\Debug\10.EployeeData.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\10.EployeeData\bin\Debug\10.EployeeData.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\10.EployeeData\bin\Debug\10.EployeeData.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\10.EployeeData\obj\Debug\10.EployeeData.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\10.EployeeData\obj\Debug\10.EployeeData.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\10.EployeeData\obj\Debug\10.EployeeData.csprojResolveAssemblyReference.cache

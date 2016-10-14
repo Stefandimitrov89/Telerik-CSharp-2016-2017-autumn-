@@ -1,0 +1,3 @@
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe.config
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.pdb

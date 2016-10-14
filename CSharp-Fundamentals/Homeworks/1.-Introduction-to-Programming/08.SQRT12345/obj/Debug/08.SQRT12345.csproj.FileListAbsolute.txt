@@ -1,0 +1,5 @@
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\SQRT12345\bin\Debug\SQRT12345.exe.config
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\SQRT12345\bin\Debug\SQRT12345.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\SQRT12345\bin\Debug\SQRT12345.pdb
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\SQRT12345\obj\Debug\SQRT12345.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\SQRT12345\obj\Debug\SQRT12345.pdb

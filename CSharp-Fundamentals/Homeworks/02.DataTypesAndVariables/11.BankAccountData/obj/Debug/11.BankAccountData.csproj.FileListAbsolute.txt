@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

@@ -1,0 +1,5 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

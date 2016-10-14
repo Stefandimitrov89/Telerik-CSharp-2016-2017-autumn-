@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

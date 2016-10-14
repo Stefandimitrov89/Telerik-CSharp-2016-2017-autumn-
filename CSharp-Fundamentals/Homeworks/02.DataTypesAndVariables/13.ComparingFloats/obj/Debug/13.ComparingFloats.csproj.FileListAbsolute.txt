@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

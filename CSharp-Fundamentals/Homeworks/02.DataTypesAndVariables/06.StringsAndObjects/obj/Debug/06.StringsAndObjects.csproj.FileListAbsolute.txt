@@ -1,0 +1,5 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017\CSharp-Fundamentals\Homeworks\02.DataTypesAndVariables\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\15.Age\bin\Debug\15.Age.exe.config
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\15.Age\bin\Debug\15.Age.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\15.Age\bin\Debug\15.Age.pdb
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\15.Age\obj\Debug\15.Age.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\15.Age\obj\Debug\15.Age.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\C#Fundamentals 2016-2017 Autumn\Intro-Programming-Homework\15.Age\obj\Debug\15.Age.pdb
