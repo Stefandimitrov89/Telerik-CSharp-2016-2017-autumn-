@@ -38,7 +38,7 @@ namespace _13.ComparingFloats
                 isEqual = false;
             }
 
-            Console.WriteLine(isEqual);
+            Console.WriteLine(isEqual ? "true": "false");
         }
     }
 }
