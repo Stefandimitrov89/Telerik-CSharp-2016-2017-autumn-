@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\10.PointinCircleAndRect\bin\Debug\10.PointinCircleAndRect.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\10.PointinCircleAndRect\bin\Debug\10.PointinCircleAndRect.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\10.PointinCircleAndRect\bin\Debug\10.PointinCircleAndRect.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\10.PointinCircleAndRect\obj\Debug\10.PointinCircleAndRect.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\10.PointinCircleAndRect\obj\Debug\10.PointinCircleAndRect.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\10.PointinCircleAndRect\obj\Debug\10.PointinCircleAndRect.pdb

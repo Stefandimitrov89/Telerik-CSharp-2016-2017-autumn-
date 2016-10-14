@@ -1,0 +1,5 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\06.FourDigits\bin\Debug\06.FourDigits.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\06.FourDigits\obj\Debug\06.FourDigits.pdb

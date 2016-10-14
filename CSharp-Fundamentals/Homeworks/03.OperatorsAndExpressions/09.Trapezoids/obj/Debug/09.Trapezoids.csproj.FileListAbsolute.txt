@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

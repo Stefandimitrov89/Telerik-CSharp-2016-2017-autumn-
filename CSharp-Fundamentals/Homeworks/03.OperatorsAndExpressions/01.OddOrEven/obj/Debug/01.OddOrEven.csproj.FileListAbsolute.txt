@@ -1,1 +1,7 @@
 C:\Users\s.dim\Documents\Visual Studio 2015\Projects\03.OperatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\01.OddOrEven\obj\Debug\01.OddOrEven.pdb
