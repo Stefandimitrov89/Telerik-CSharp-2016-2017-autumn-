@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\11.ThirdBit\bin\Debug\11.ThirdBit.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\11.ThirdBit\bin\Debug\11.ThirdBit.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\11.ThirdBit\obj\Debug\11.ThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\11.ThirdBit\obj\Debug\11.ThirdBit.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\03.OperatorsAndExpressions\11.ThirdBit\obj\Debug\11.ThirdBit.pdb
