@@ -1,1 +1,6 @@
 C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\06.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.exe.config
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\06.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\06.Loops\03.MMSAOfNNumbers\bin\Debug\03.MMSAOfNNumbers.pdb
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\06.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\06.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.exe
+C:\Users\s.dim\Documents\GitHub\Telerik-CSharp-2016-2017-autumn-\CSharp-Fundamentals\Homeworks\06.Loops\03.MMSAOfNNumbers\obj\Debug\03.MMSAOfNNumbers.pdb

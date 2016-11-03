@@ -15,10 +15,6 @@
 //
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _04.PrintADeck
 {
@@ -32,28 +28,53 @@ namespace _04.PrintADeck
             {
                 for (int i = 2; i <= value; i++)
                 {
-                    Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", value);
+                    Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", i);
                 }
             }
+            else
+            {
+                switch (input)
+                {
+                    case "J":
+                        for (int i = 2; i <= 10; i++)
+                        {
+                            Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", i);
+                        }
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", input);
+                        break;
+                    case "Q":
+                        for (int i = 2; i <= 10; i++)
+                        {
+                            Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", i);
+                        }
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", "J");
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", input);
+                        break;
+                    case "K":
+                        for (int i = 2; i <= 10; i++)
+                        {
+                            Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", i);
+                        }
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", "J");
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", "Q");
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", input);
+                        break;
+                    case "A":
+                        for (int i = 2; i <= 10; i++)
+                        {
+                            Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", i);
+                        }
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", "J");
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", "Q");
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", "K");
+                        Console.WriteLine("{0} of spades, {0} of clubs, {0} of hearts, {0} of diamonds", input);
+                        break;
 
-
+                    default:
+                        break;
+                }
+            }
+        }
             
-        }
-        public enum Cards
-        {
-            two = 2, 
-            three = 3,
-            four = 4,
-            five = 5, 
-            six = 6, 
-            even = 7, 
-            eight = 8, 
-            nine = 9, 
-            ten = 10,
-            jack = J,
-            quinn = Q,
-            king = K,
-            ace = A
-        }
     }
 }
