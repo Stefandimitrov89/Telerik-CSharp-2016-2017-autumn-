@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task2Buses\bin\Debug\Task2Buses.exe.config
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task2Buses\bin\Debug\Task2Buses.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task2Buses\bin\Debug\Task2Buses.pdb
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task2Buses\obj\Debug\Task2Buses.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task2Buses\obj\Debug\Task2Buses.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task2Buses\obj\Debug\Task2Buses.pdb

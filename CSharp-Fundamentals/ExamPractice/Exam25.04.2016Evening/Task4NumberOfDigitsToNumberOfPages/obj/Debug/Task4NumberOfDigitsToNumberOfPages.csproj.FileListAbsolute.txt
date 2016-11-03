@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task4NumberOfDigitsToNumberOfPages\bin\Debug\Task4NumberOfDigitsToNumberOfPages.exe.config
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task4NumberOfDigitsToNumberOfPages\bin\Debug\Task4NumberOfDigitsToNumberOfPages.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task4NumberOfDigitsToNumberOfPages\bin\Debug\Task4NumberOfDigitsToNumberOfPages.pdb
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task4NumberOfDigitsToNumberOfPages\obj\Debug\Task4NumberOfDigitsToNumberOfPages.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task4NumberOfDigitsToNumberOfPages\obj\Debug\Task4NumberOfDigitsToNumberOfPages.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task4NumberOfDigitsToNumberOfPages\obj\Debug\Task4NumberOfDigitsToNumberOfPages.pdb

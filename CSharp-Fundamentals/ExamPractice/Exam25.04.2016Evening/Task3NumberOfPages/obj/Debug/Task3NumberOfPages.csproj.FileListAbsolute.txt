@@ -1,0 +1,6 @@
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task3NumberOfPages\bin\Debug\Task3NumberOfPages.exe.config
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task3NumberOfPages\bin\Debug\Task3NumberOfPages.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task3NumberOfPages\bin\Debug\Task3NumberOfPages.pdb
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task3NumberOfPages\obj\Debug\Task3NumberOfPages.csprojResolveAssemblyReference.cache
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task3NumberOfPages\obj\Debug\Task3NumberOfPages.exe
+C:\Users\s.dim\Documents\Visual Studio 2015\Projects\Exam25.04.2016Evening\Task3NumberOfPages\obj\Debug\Task3NumberOfPages.pdb

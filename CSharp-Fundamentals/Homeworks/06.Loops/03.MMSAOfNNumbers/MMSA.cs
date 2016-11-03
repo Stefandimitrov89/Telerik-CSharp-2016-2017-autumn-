@@ -16,17 +16,40 @@
 //
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace _03.MMSAOfNNumbers
 {
     class MMSA
     {
         static void Main(string[] args)
         {
+            int N = int.Parse(Console.ReadLine());
+            double[] inputArr = new double[N];
+            for (int i = 0; i < N; i++)
+            {
+                inputArr[i] = double.Parse(Console.ReadLine());
+            }
+            double max = double.MinValue;
+            double min = double.MaxValue;
+            double sumOfumbers = 0;
+            double average = 0;
+
+            foreach (var num in inputArr)
+            {
+                if (num > max)
+                {
+                    max = num;
+                }
+                if (num < min)
+                {
+                    min = num;
+                }
+                sumOfumbers += num;
+            }
+            average = sumOfumbers / N;
+            Console.WriteLine("min={0:F2}", min);
+            Console.WriteLine("max={0:F2}", max);
+            Console.WriteLine("sum={0:F2}", sumOfumbers);
+            Console.WriteLine("avg={0:F2}", average);
         }
     }
 }
